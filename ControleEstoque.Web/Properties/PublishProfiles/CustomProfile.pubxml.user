@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAASvVDEzi0RUOcVhrAuU5/eAAAAAACAAAAAAAQZgAAAAEAACAAAACm4blDthbgJ9XUj8hBxOxBBX4WbQTGFTx5EQwIKbFDDQAAAAAOgAAAAAIAACAAAACC335gz+JgdNPZ+YLOnDZ126jb+dibvMjOuriEOWkS3oAAAADDo0bco1+c7465AWXQcao8wcAXreTOTfw+C4LLZwZqLFbWuWtdB2cnEtRgiQxUE67aCyYEsQU/MO/wbL9sl2G45joAerA6sAXzf5qiTDiYCtFdJH23Mc2JC5O+K90Kfmo6xEs///Q7aHPCk2Ujj5o5XHTl/Mrlmyt3WyIpf2zSKUAAAADvkKAG74X5Ly7f5Ksd9mYRPW4CrJGQR3OkJt7eTPp7XYD9RdG+UT20N7aOTNaAfFebjBSVT/pLcO01SQ8xGuTH</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.gear.host/C:\Users\developer\source\repos\HGames_Web</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
